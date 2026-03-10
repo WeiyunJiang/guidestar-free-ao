@@ -114,3 +114,14 @@ The project is organized as follows:
 * `utils.py`: Shared helper functions.
 * `train_*.py`: Primary Python training scripts called by the bash scripts.
 
+## Citation
+
+If you find this work useful, please consider citing:
+```bibtex
+@article{jiang2026guidestar,
+    title={Guidestar-Free Adaptive Optics with Asymmetric Apertures},
+    author={Jiang, Weiyun and Guo, Haiyun and Metzler, Christopher A. and Veeraraghavan, Ashok},
+    journal={ACM Transactions on Graphics (TOG)},
+    year={2026}
+}
+```
