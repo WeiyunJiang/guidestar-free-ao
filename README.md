@@ -5,6 +5,8 @@ This repository is the official implementation of [Guidestar-Free Adaptive Optic
 
 [![Arxiv](https://img.shields.io/badge/arXiv-2509.21309-b31b1b.svg?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2602.07029)
 [![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge)](https://weiyunjiang.com/guidestar-free-ao/)
+
+![Teaser](figs/teaser_AO.pdf)
 ---
 
 ## 💻 System & Hardware Requirements
