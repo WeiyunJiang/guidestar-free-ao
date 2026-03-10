@@ -1,6 +1,7 @@
-# Guidestar-Free Adaptive Optics with Asymmetric Apertures
+This repository is the official implementation of [Guidestar-Free Adaptive Optics with Asymmetric Apertures](https://weiyunjiang.com/guidestar-free-ao/).
 
-Official implementation of the paper **"Guidestar-Free Adaptive Optics with Asymmetric Apertures"**. This repository provides the codes for wavefront shaping through turbulence without the need for a guidestar or a wavefront sensor.
+> **[ACM Transactions on Graphics 2026] Guidestar-Free Adaptive Optics with Asymmetric Apertures** <br>
+> [Weiyun Jiang](https://weiyunjiang.com/), [Haiyun Guo](https://haiyunguo7.github.io/), [Christopher A. Metzler](https://www.cs.umd.edu/~metzler/), [Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan)<br>
 
 ---
 
