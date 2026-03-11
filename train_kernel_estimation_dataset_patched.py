@@ -40,10 +40,10 @@ parser.add_argument('--phase_dir_train', nargs='+', type=str,
                     '/home/wj22/pupil/data/triangle_200k_psf_0.1_new/train/phase', '/home/wj22/pupil/data/triangle_100k_psf_0.01_new/train/phase'], 
                     help="Paths to training phase directories.")
 parser.add_argument('--psf_dir_val', nargs='+', type=str, 
-                    default=['/home/wj22/pupil/data/triangle_1m_psf_1.5_new/val/psf'],
+                    default=['/home/wj22/pupil/data/triangle_2m_psf_0.7_new/val/psf'],
                     help="Paths to validation PSF directories.")
 parser.add_argument('--phase_dir_val', nargs='+', type=str, 
-                    default=['/home/wj22/pupil/data/triangle_1m_psf_1.5_new/val/phase'],
+                    default=['/home/wj22/pupil/data/triangle_2m_psf_0.7_new/val/phase'],
                     help="Paths to validation phase directories.")
 
 
