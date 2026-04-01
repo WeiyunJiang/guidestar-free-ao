@@ -122,7 +122,7 @@ If you find this work helpful, please consider citing:
 ```bibtex
 @article{jiang2026guidestar,
   title={Guidestar-Free Adaptive Optics with Asymmetric Apertures},
-  author={Jiang, Weiyun and Guo, Haiyun and Metzler, Christopher A and Veeraraghavan, Ashok},
+  author={Jiang, Weiyun and Guo, Haiyun and Metzler, Christopher A. and Veeraraghavan, Ashok},
   journal={arXiv preprint arXiv:2602.07029},
   year={2026}
 }
