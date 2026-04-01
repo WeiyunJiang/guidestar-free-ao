@@ -72,7 +72,7 @@ To facilitate quick baseline comparisons, we provide pretrained model weights fo
 | :--- | :--- | :--- |
 | **Guidestar-Free** | PSF U-Net | Kernel estimation for guidestar-free wavefront shaping |
 | **Guidestar-Free** | Phase U-Net | Wavefront estimation / phase retrieval using PSF estimate from PSF U-Net |
-| **Guidestar** | Phase U-Net | Wavefront estimation with a guide star |
+| **Guidestar** | Phase U-Net | Wavefront estimation with a guidestar |
 
 You can download the model checkpoints from our Google Drive:
 [📥 Download Pretrained Weights](https://drive.google.com/file/d/1e2GxutCBGbDSLIHtMcvRMSlsKAqJVtYH/view?usp=sharing)
