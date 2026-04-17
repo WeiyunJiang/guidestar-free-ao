@@ -1,5 +1,3 @@
-# This script optimize the kernel estimation and phase retrieval Unet jointly
-# In this script, we create the blurred, psf phase pair on fly, and train the model on the fly
 import argparse
 import os
 import torch
