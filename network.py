@@ -1,4 +1,3 @@
-'''A number of custom pytorch modules with sane defaults that I find useful for model prototyping.'''
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
@@ -22,7 +21,6 @@ class FCLayer(nn.Module):
         return self.net(input)
 
 
-# From https://gist.github.com/wassname/ecd2dac6fc8f9918149853d17e3abf02
 class LayerNormConv2d(nn.Module):
 
     def __init__(self, num_features, eps=1e-5, affine=True):
