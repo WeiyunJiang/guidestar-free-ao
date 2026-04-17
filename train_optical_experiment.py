@@ -1,4 +1,3 @@
-# This script trains a U-Net model to predict the phase from the PSF.
 import argparse
 import os
 import torch
