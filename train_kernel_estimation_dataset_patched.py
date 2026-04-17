@@ -1,8 +1,3 @@
-# This script trains a U-Net model to predict the psf from the blurred image.
-# In this script, we create the blurred, psf phase pair on fly, and train the model on the fly
-# The input to the model is patchified blurred image and the output is the cropped psf
-
-
 import argparse
 import os
 import torch
