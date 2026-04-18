@@ -4,6 +4,7 @@ This repository is the official implementation of [Guidestar-Free Adaptive Optic
 > [Weiyun Jiang](https://weiyunjiang.com/), [Haiyun Guo](https://haiyunguo7.github.io/), [Christopher A. Metzler](https://www.cs.umd.edu/~metzler/), [Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan)<br>
 
 [![Arxiv](https://img.shields.io/badge/arXiv-2509.21309-b31b1b.svg?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2602.07029)
+[![ACM TOG](https://img.shields.io/badge/ACM%20TOG-10.1145%2F3809500-0085CA?style=for-the-badge&logo=acm)](https://doi.org/10.1145/3809500)
 [![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge)](https://weiyunjiang.com/guidestar-free-ao/)
 
 ![Teaser](figs/teaser_AO_single_col_web_new.png)
