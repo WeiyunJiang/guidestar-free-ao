@@ -1,4 +1,4 @@
-This repository is the official implementation of [Guidestar-Free Adaptive Optics with Asymmetric Apertures](https://weiyunjiang.com/guidestar-free-ao/).
+wThis repository is the official implementation of [Guidestar-Free Adaptive Optics with Asymmetric Apertures](https://weiyunjiang.com/guidestar-free-ao/).
 
 > **[ACM Transactions on Graphics / Presented at SIGGRAPH 2026] Guidestar-Free Adaptive Optics with Asymmetric Apertures** <br>
 > [Weiyun Jiang](https://weiyunjiang.com/), [Haiyun Guo](https://haiyunguo7.github.io/), [Christopher A. Metzler](https://www.cs.umd.edu/~metzler/), [Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan)<br>
@@ -124,10 +124,19 @@ If you find this work helpful, please consider citing:
 @article{jiang2026guidestar,
     title={Guidestar-free adaptive optics with asymmetric apertures},
     author={Jiang, Weiyun and Guo, Haiyun and Metzler, Christopher A. and Veeraraghavan, Ashok},
-    journal={ACM Trans. Graph.},
-    year={2026},
+    year = {2026},
+    issue_date = {October 2026},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {45},
+    number = {5},
+    issn = {0730-0301},
     url = {https://doi.org/10.1145/3809501},
-    doi={10.1145/3809501}
+    doi = {10.1145/3809501},
+    journal = {ACM Trans. Graph.},
+    month = jun,
+    articleno = {39},
+    numpages = {17},
 }
 ```
 
